@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+canvas {
+    background-color: white;
+}
+
+button {
+    height: 50px;
+    font-size: 20px;
+}
